@@ -1,2 +1,2 @@
 # mohabbat-photography
-HTML, CSS, Bootstrap, JavScript, portfolio 
+live:https://saydurrahoman.github.io/mohabbat-photography/
